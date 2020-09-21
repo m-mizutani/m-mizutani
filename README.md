@@ -31,6 +31,7 @@ Masayoshi Mizutani is a security engineer. In university, he was studying and re
   - Develop web service
 - Not good in ... (sometime mistaken that I'm good in)
   - Penetration testing
+  - Malware binary analysis
   - CTF
 
 ### Career
@@ -76,7 +77,6 @@ Masayoshi Mizutani is a security engineer. In university, he was studying and re
 
 ## Presentations
 
-- 2020.7 [Trivy + AWSによるコンテナイメージ脆弱性検査パイプラインの構築](https://techlife.cookpad.com/entry/catbox)
 - 2020.1 [Amazon Athena を使った セキュリティログ検索基盤の構築](https://speakerdeck.com/mizutani/seclog-athena) in [ログ分析勉強会 vol.2](https://loganalytics.connpass.com/event/157354/)
 - 2019.7 [AWS re:Inforce recap 2019](https://speakerdeck.com/mizutani/aws-re-inforce-recap-2019) in AWS re:Inforce 2019 re:Cap Seminar
 - 2019.2 [スケーラブルなセキュリティ監視基盤の作り方](https://speakerdeck.com/mizutani/techconf2019-mizutani) in Cookpad TechConf 2019
@@ -87,6 +87,7 @@ Masayoshi Mizutani is a security engineer. In university, he was studying and re
 
 ## Publications
 
+- [Trivy + AWSによるコンテナイメージ脆弱性検査パイプラインの構築](https://techlife.cookpad.com/entry/catbox), 2020.7, Cookpad Developers' Blog
 - [サーバーレスで作るセキュリティアラート自動対応フレームワーク](https://techlife.cookpad.com/entry/2020/03/18/073000), 2020.3, Cookpad Developers' Blog
 - [Amazon Athena を使ったセキュリティログ検索基盤の構築](https://techlife.cookpad.com/entry/2019/11/21/073000), 2019.11, Cookpad Developers' Blog
 - [オフィス・AWS環境をセキュリティ監視するためのログ収集](https://techlife.cookpad.com/entry/2018/05/31/080000), 2018.5, Cookpad Developers' Blog
@@ -104,7 +105,7 @@ Masayoshi Mizutani is a security engineer. In university, he was studying and re
 
 ## Contacts and Social Services
 
-- Mail: mizutani@sfc.wide.ad.jp
+- Mail: mizutani@hey.com
 - Github: https://github.com/m-mizutani
 - Dev: https://dev.to/mizutani
 - Twitter: https://twitter.com/m_mizutani
