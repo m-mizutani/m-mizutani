@@ -77,6 +77,7 @@ Masayoshi Mizutani is a security engineer. In university, he was studying and re
 
 ## Presentations
 
+- 2020.11 [リモートワークを支える 社内セキュリティ基盤の構築と運用](https://speakerdeck.com/mizutani/secueiry-for-wfh) in [Internet Week 2020](https://www.nic.ad.jp/iw2020/program/detail/#c15)
 - 2020.10 [SOARによるセキュリティ監視業務の効率化とSecOps](https://speakerdeck.com/mizutani/soar-and-secops) in [CODE BLUE 2020](https://codeblue.jp/2020/talks/?content=talks_8)
 - 2020.10 [Cookpad: Security Architecture to Monitor and Analyze Secure Logs using AWS](https://youtu.be/qN5-v4NlKac?did=ta_card&trk=ta_card) in [AWS This is My Architecture](https://aws.amazon.com/this-is-my-architecture/?nc1=h_ls&tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc)
 - 2020.1 [Amazon Athena を使った セキュリティログ検索基盤の構築](https://speakerdeck.com/mizutani/seclog-athena) in [ログ分析勉強会 vol.2](https://loganalytics.connpass.com/event/157354/)
