@@ -90,6 +90,7 @@ Masayoshi Mizutani is a security engineer. In university, he was studying and re
 
 ## Publications
 
+- [AWS の This is My Architecture でS3を中心としたセキュリティログ基盤の紹介をしました](https://techlife.cookpad.com/entry/aws-tma-2019), 2020.12, Cookpad Developers' Blog
 - [Trivy + AWSによるコンテナイメージ脆弱性検査パイプラインの構築](https://techlife.cookpad.com/entry/catbox), 2020.7, Cookpad Developers' Blog
 - [サーバーレスで作るセキュリティアラート自動対応フレームワーク](https://techlife.cookpad.com/entry/2020/03/18/073000), 2020.3, Cookpad Developers' Blog
 - [Amazon Athena を使ったセキュリティログ検索基盤の構築](https://techlife.cookpad.com/entry/2019/11/21/073000), 2019.11, Cookpad Developers' Blog
