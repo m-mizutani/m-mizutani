@@ -116,4 +116,5 @@ Masayoshi Mizutani is a security engineer. In university, he was studying and re
 - Blog: https://mztn.hatenablog.com
 - Google Scholar: https://scholar.google.co.uk/citations?user=pX7ttVoAAAAJ
 
-NOTE: Contact me by email (mizutani@hey.com) or Twitter usually. Please mention about your favorite alchohol drink in the message if you want to talk for hiring purpose.
+NOTE: Contact me by email (mizutani@hey.com) or Twitter usually. Please mention about your favorite alchohol drink or sweet in the message if you want to talk for hiring purpose.
+採用に関するお話につきましては、あなたの好きなお酒かお菓子の話を添えてメールをお送りください
