@@ -36,7 +36,9 @@ Masayoshi Mizutani is a security engineer. In university, he was studying and re
 
 ### Career
 
-#### Security Engineer in Cookpad Inc. (2017.11 - present)
+#### Next? (2021.9-)
+
+#### Security Engineer in Cookpad Inc. (2017.11 - 2021.8)
 
 - Design & Implementation of Security Monitoring System on AWS
   - Security log collection
