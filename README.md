@@ -18,25 +18,9 @@ Masayoshi Mizutani is a security engineer. In university, he was studying and re
 
 ## Experience
 
-### Skill
-
-- Good in ...
-  - Development of backend system (from architecture design to code implementation)
-    - e.g. Security log management system, continuous security scanning for container image
-    - Prefer serverless architecture
-  - Security analyst works for Security Operation Center
-  - Reading and writing academic paper
-- Have experinces of ...
-  - Risk management of information security
-  - Develop web service
-- Not good in ... (sometime mistaken that I'm good in)
-  - Penetration testing
-  - Malware binary analysis
-  - CTF
-
 ### Career
 
-#### Next? (2021.9-)
+#### Security Engineer in Ubie Inc. (2021.9-)
 
 #### Security Engineer in Cookpad Inc. (2017.11 - 2021.8)
 
