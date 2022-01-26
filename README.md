@@ -8,7 +8,7 @@
 
 ## Overview
 
-Masayoshi Mizutani is a security engineer. In university, he was studying and researching about network-based intrusion detection system and malware analysis. After graduation, he worked for various projects, e.g. SIEM (Security Information & Event Manager) integration, SOC (Security Operation Centor) Analyst. Now he is working to build security monitorig system, DevSecOps architecture and various security mechanism at <a href="https://cookpad.com">Cookpad Inc</a>.
+Masayoshi Mizutani is a security engineer. In university, he was studying and researching about network-based intrusion detection system and malware analysis. After graduation, he worked for various projects, e.g. SIEM (Security Information & Event Manager) integration, SOC (Security Operation Centor) Analyst. Now he is working to build security monitorig system, DevSecOps architecture and various security mechanism at Ubie inc (for <a href="https://ubie.app/">jp</a> / <a href="https://sg.ubie.app/">sg</a>).
 
 ### Interests
 
