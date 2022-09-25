@@ -22,6 +22,9 @@ Masayoshi Mizutani is a security engineer. In university, he was studying and re
 
 #### Security Engineer in Ubie Inc. (2021.9-)
 
+- Product security engineering
+- Design & implementation of authentication infrastructure in Ubie
+
 #### Security Engineer in Cookpad Inc. (2017.11 - 2021.8)
 
 - Design & Implementation of Security Monitoring System on AWS
@@ -63,6 +66,7 @@ Masayoshi Mizutani is a security engineer. In university, he was studying and re
 
 ## Presentations
 
+- 2022.8 [Policy as Code 入門](https://docs.google.com/presentation/d/1dk4l50A9G7L4wYRmnC-93CLw9cBLjoE1m_9zp4BNTt0/edit#slide=id.gc6f73a04f_0_0) in [セキュリティ・キャンプ2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html)
 - 2020.11 [リモートワークを支える 社内セキュリティ基盤の構築と運用](https://speakerdeck.com/mizutani/secueiry-for-wfh) in [Internet Week 2020](https://www.nic.ad.jp/iw2020/program/detail/#c15)
 - 2020.10 [SOARによるセキュリティ監視業務の効率化とSecOps](https://speakerdeck.com/mizutani/soar-and-secops) in [CODE BLUE 2020](https://codeblue.jp/2020/talks/?content=talks_8)
 - 2020.10 [Cookpad: Security Architecture to Monitor and Analyze Secure Logs using AWS](https://youtu.be/qN5-v4NlKac?did=ta_card&trk=ta_card) in [AWS This is My Architecture](https://aws.amazon.com/this-is-my-architecture/?nc1=h_ls&tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc)
