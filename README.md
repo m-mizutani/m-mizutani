@@ -8,13 +8,18 @@
 
 ## Overview
 
-Masayoshi Mizutani is a security engineer. In university, he was studying and researching about network-based intrusion detection system and malware analysis. After graduation, he worked for various projects, e.g. SIEM (Security Information & Event Manager) integration, SOC (Security Operation Centor) Analyst. Now he is working to build security monitorig system, DevSecOps architecture and various security mechanism at Ubie inc (for <a href="https://ubie.app/">jp</a> / <a href="https://sg.ubie.app/">sg</a>).
+Masayoshi Mizutani is a security engineer. In university, he was studying and researching about network-based intrusion detection system and malware analysis. After graduation, he worked for various projects, e.g. SIEM (Security Information & Event Manager) integration, SOC (Security Operation Center) Analyst. Now he is working to build security monitoring system, DevSecOps architecture and various security mechanism at Ubie inc (for <a href="https://ubie.app/">jp</a> / <a href="https://ubiehealth.com/">us</a>).
 
-### Interests
+## ToC
 
-- Engineering for Information Security
-- Network Security for Defence, Detection and Security Forensics
-- Data Visualization and Analysis
+- Experience
+  - [Career](https://github.com/m-mizutani/#career)
+  - [Education](https://github.com/m-mizutani/#education)
+- [Open source activities]()
+- [Presentations](https://github.com/m-mizutani/#presentations)
+- [Publications](https://github.com/m-mizutani/#publications)
+- [Contacts and Social Services](https://github.com/m-mizutani/#contacts-and-social-services)
+
 
 ## Experience
 
@@ -53,7 +58,7 @@ Masayoshi Mizutani is a security engineer. In university, he was studying and re
   - Detect and analyze security alerts and report to customer
   - Write biannual SOC trend analysis reports
   - Security operation improvement by automation and tool development
-    
+
 #### Engineer (Internship) in Internet Systems Consortium (2010.12-2011.3)
 
 - Develop monitoring dashboard for Security Information Exchange
@@ -63,6 +68,39 @@ Masayoshi Mizutani is a security engineer. In university, he was studying and re
 - Ph.D. in Media and Governance, 2010, Keio University
 - Master of Media and Governance, 2008, Keio University
 - Bachelor of Arts in Environment and Information Studies, 2006, Keio University
+
+## Open source activities
+
+Major own OSS repositories.
+
+- Security
+  - [Octovy](https://github.com/m-mizutani/octovy): [trivy](https://github.com/aquasecurity/trivy) based vulnerability management service
+  - [triview](https://github.com/m-mizutani/triview): CLI tool to view [trivy](https://github.com/aquasecurity/trivy) DB
+  - [falconstream](https://github.com/m-mizutani/falconstream): Event forwarder for [CrowdStrike Falcon](https://www.crowdstrike.jp/falcon-platform/)
+  - [logptn](https://github.com/m-mizutani/logptn): Generate Log Format from real text-based log data
+- Go language utilities
+  - [goast](https://github.com/m-mizutani/goast): Go AST based static analysis tool with [Rego](https://www.openpolicyagent.org/docs/latest/policy-language/)
+  - [goerr](https://github.com/m-mizutani/goerr): More contextual error handling in Go
+  - [gots](https://github.com/m-mizutani/gots): Simple and easy, but tedious function set in Go.
+  - [zlog](https://github.com/m-mizutani/zlog): Secure logger in Go to avoid output sensitive data in log
+- CLI utility
+  - [zenv](https://github.com/m-mizutani/zenv): Enhanced env command to set environment variable by various method
+- OPA/Rego
+  - [opac](https://github.com/m-mizutani/opac): Rego evaluation API for OPA server, local Rego file and in-memory Rego data
+  - [opaq](https://github.com/m-mizutani/opaq): Generic inquiry tool to OPA server for CI process, such as GitHub Actions
+  - [ghnotify](https://github.com/m-mizutani/ghnotify): General GitHub event notification tool to Slack with Open Policy Agent and Rego
+  - [ghaudit](https://github.com/m-mizutani/ghaudit): CLI audit tool for GitHub organization with OPA/Rego
+  - [regolint](https://github.com/m-mizutani/regolint): Custom Rego linter with policy written by Rego
+- AWS
+  - [vxcap](https://github.com/m-mizutani/vxcap): Capture and dump VXLAN encapsulated traffic
+  - [golambda](https://github.com/m-mizutani/golambda): A suite of Go utilities for AWS Lambda functions to ease adopting best practices
+- GCP
+  - [fbdump](https://github.com/m-mizutani/fbdump): Dump a massive amount of Firebase Auth user records
+- Network
+  - [lurker](https://github.com/m-mizutani/lurker): Scalable security network sensor as low interaction honeypot
+  - [goblin](https://github.com/m-mizutani/goblin): Packet capture & TCP session reset tool in C language
+  - [dnshive](https://github.com/m-mizutani/dnshive): Gathering name resolution protocol traffic, such as DNS forward lookup query/result and show IP traffic based on looked up names
+  - [packetmachine](https://github.com/m-mizutani/packetmachine): Fast network packet decoding library in C++
 
 ## Presentations
 
