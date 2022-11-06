@@ -139,6 +139,7 @@ Major own OSS repositories.
 
 - Mail: mizutani@hey.com
 - Twitter: https://twitter.com/m_mizutani
+- Mastodon: https://mstdn.jp/@m_mizutani
 - Github: https://github.com/m-mizutani
 - Dev: https://dev.to/mizutani
 - Blog: https://mztn.hatenablog.com
